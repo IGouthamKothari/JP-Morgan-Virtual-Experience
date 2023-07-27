@@ -1,9 +1,3 @@
-From acb3659accef034a8f52fe8c6f7bae75c3ccf070 Mon Sep 17 00:00:00 2001
-From: Daniel Kogan <54873722+daminals@users.noreply.github.com>
-From: Daniel Kogan <danielkoganx@gmail.com>
-Date: Tue, 23 Nov 2021 20:33:09 -0500
-Subject: [PATCH] updated app that achieves all stated goals : submission
-
 ---
  package-lock.json | 175 ++++++++++++++++++++++++++++++++++++++++------
  src/App.tsx       |  26 +++++--
